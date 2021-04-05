@@ -10390,6 +10390,7 @@
         <members>Case.SuppliedEmail</members>
         <members>Case.SuppliedName</members>
         <members>Case.SuppliedPhone</members>
+        <members>Case.TestCasefield__c</members>
         <members>Case.Type</members>
         <members>CaseContactRole.Role</members>
         <members>ChannelProgram.Category</members>
@@ -22194,6 +22195,7 @@
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>CampaignMember-LLC_BI__Campaign Member Page Layout</members>
         <members>Case-Case Layout</members>
+        <members>Case-Converted%3A Case Feed Layout</members>
         <members>Case-LLC_BI__Case %28Marketing%29 Layout</members>
         <members>Case-LLC_BI__Case %28Sales%29 Layout</members>
         <members>Case-LLC_BI__Case %28Support%29 Layout</members>
